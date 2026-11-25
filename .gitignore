@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/
+*.wet.gz
+*.warc.gz
+*.csv
+*.zip
+*.rar

@@ -1,0 +1,5 @@
+warcio
+requests
+psycopg2-binary
+python-dotenv
+python-stdnum
